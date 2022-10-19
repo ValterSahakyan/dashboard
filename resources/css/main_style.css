@@ -1,0 +1,16 @@
+
+.c-sidebar .c-sidebar-brand, .c-sidebar .c-sidebar-header  {
+    background: #031226 !important;
+}
+
+.file-preview {
+    height: 320px;
+}
+
+.file-drop-zone {
+    height: 280px;
+}
+
+.kv-file-upload, .file-upload-indicator {
+    visibility: hidden !important;
+}
